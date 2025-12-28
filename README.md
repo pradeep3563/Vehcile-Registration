@@ -103,7 +103,4 @@ If you need to manually reset an admin password, a utility script is provided.
 -   Approve/Reject Applications
 -   PDF Report Generation
 
-Running Link  
 
-## 🔗 Live Demo
-👉 https://pradeep3563.github.io/Vehcile-Registration/
